@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\Vacation Books List.exe
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\Vacation Books List.deps.json
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\Vacation Books List.runtimeconfig.json
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\Vacation Books List.runtimeconfig.dev.json
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\Vacation Books List.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\ref\Vacation Books List.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\bin\Debug\net5.0\Vacation Books List.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.AssemblyInfo.cs
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\ref\Vacation Books List.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\Vacation Books List\obj\Debug\net5.0\Vacation Books List.genruntimeconfig.cache

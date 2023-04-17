@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.exe
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.deps.json
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.runtimeconfig.json
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.runtimeconfig.dev.json
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\ref\Basketball Equipment.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\bin\Debug\net5.0\Basketball Equipment.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.AssemblyInfo.cs
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\ref\Basketball Equipment.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\Basketball Equipment\obj\Debug\net5.0\Basketball Equipment.genruntimeconfig.cache

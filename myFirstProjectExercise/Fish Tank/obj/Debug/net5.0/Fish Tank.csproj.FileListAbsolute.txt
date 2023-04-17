@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\Fish Tank.exe
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\Fish Tank.deps.json
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\Fish Tank.runtimeconfig.json
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\Fish Tank.runtimeconfig.dev.json
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\Fish Tank.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\ref\Fish Tank.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\bin\Debug\net5.0\Fish Tank.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.AssemblyInfo.cs
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\ref\Fish Tank.dll
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\Fish Tank\obj\Debug\net5.0\Fish Tank.genruntimeconfig.cache

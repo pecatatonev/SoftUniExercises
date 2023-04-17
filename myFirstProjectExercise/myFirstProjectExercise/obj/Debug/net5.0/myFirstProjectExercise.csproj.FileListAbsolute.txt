@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\myFirstProjectExercise.exe
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\myFirstProjectExercise.deps.json
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\myFirstProjectExercise.runtimeconfig.json
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\myFirstProjectExercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\myFirstProjectExercise.dll
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\ref\myFirstProjectExercise.dll
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\bin\Debug\net5.0\myFirstProjectExercise.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.AssemblyInfo.cs
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.dll
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\ref\myFirstProjectExercise.dll
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.pdb
+C:\Users\User\source\repos\myFirstProjectExercise\myFirstProjectExercise\obj\Debug\net5.0\myFirstProjectExercise.genruntimeconfig.cache

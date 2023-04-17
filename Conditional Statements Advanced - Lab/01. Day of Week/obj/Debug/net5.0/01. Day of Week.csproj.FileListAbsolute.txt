@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\ref\01. Day of Week.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\bin\Debug\net5.0\01. Day of Week.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\ref\01. Day of Week.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Lab\01. Day of Week\obj\Debug\net5.0\01. Day of Week.genruntimeconfig.cache

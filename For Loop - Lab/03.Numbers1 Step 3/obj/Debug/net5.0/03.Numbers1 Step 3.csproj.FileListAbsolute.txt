@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\03.Numbers1 Step 3.exe
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\03.Numbers1 Step 3.deps.json
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\03.Numbers1 Step 3.runtimeconfig.json
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\03.Numbers1 Step 3.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\03.Numbers1 Step 3.dll
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\ref\03.Numbers1 Step 3.dll
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\bin\Debug\net5.0\03.Numbers1 Step 3.pdb
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.dll
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\ref\03.Numbers1 Step 3.dll
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.pdb
+C:\Users\User\source\repos\For Loop - Lab\03.Numbers1 Step 3\obj\Debug\net5.0\03.Numbers1 Step 3.genruntimeconfig.cache

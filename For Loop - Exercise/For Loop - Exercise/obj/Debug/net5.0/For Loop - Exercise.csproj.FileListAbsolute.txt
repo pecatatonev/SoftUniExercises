@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\For Loop - Exercise.exe
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\For Loop - Exercise.deps.json
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\For Loop - Exercise.runtimeconfig.json
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\For Loop - Exercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\For Loop - Exercise.dll
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\ref\For Loop - Exercise.dll
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\bin\Debug\net5.0\For Loop - Exercise.pdb
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.dll
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\ref\For Loop - Exercise.dll
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.pdb
+C:\Users\User\source\repos\For Loop - Exercise\For Loop - Exercise\obj\Debug\net5.0\For Loop - Exercise.genruntimeconfig.cache

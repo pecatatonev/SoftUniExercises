@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.exe
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.deps.json
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.json
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.runtimeconfig.dev.json
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\bin\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.AssemblyInfo.cs
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.dll
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\refint\4. Matrix Shuffling.dll
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.pdb
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\4. Matrix Shuffling.genruntimeconfig.cache
+C:\Users\User\source\repos\Multidimensional Arrays\4. Matrix Shuffling\obj\Debug\net5.0\ref\4. Matrix Shuffling.dll

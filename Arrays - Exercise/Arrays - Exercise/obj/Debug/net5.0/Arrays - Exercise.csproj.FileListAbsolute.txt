@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\Arrays - Exercise.exe
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\Arrays - Exercise.deps.json
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\Arrays - Exercise.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\Arrays - Exercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\Arrays - Exercise.dll
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\ref\Arrays - Exercise.dll
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\bin\Debug\net5.0\Arrays - Exercise.pdb
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.dll
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\ref\Arrays - Exercise.dll
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.pdb
+C:\Users\User\source\repos\Arrays - Exercise\Arrays - Exercise\obj\Debug\net5.0\Arrays - Exercise.genruntimeconfig.cache

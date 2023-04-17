@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.exe
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.deps.json
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.runtimeconfig.json
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.runtimeconfig.dev.json
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.dll
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\ref\08. Circle Area and Perimeter.dll
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\bin\Debug\net5.0\08. Circle Area and Perimeter.pdb
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.AssemblyInfo.cs
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.dll
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\ref\08. Circle Area and Perimeter.dll
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.pdb
+C:\Users\User\source\repos\moreExercises\08. Circle Area and Perimeter\obj\Debug\net5.0\08. Circle Area and Perimeter.genruntimeconfig.cache

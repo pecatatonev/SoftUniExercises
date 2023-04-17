@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\02. Greater Number.exe
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\02. Greater Number.deps.json
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.json
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\02. Greater Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\02. Greater Number.dll
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\ref\02. Greater Number.dll
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\bin\Debug\net5.0\02. Greater Number.pdb
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.AssemblyInfo.cs
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.dll
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\ref\02. Greater Number.dll
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.pdb
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.genruntimeconfig.cache
+C:\Users\User\source\repos\ConditionalStatements\02. Greater Number\obj\Debug\net5.0\02. Greater Number.csproj.AssemblyReference.cache

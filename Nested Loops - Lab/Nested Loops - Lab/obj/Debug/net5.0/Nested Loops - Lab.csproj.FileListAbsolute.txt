@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\Nested Loops - Lab.exe
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\Nested Loops - Lab.deps.json
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\Nested Loops - Lab.runtimeconfig.json
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\Nested Loops - Lab.runtimeconfig.dev.json
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\Nested Loops - Lab.dll
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\ref\Nested Loops - Lab.dll
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\bin\Debug\net5.0\Nested Loops - Lab.pdb
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.AssemblyInfo.cs
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.dll
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\ref\Nested Loops - Lab.dll
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.pdb
+C:\Users\User\source\repos\Nested Loops - Lab\Nested Loops - Lab\obj\Debug\net5.0\Nested Loops - Lab.genruntimeconfig.cache

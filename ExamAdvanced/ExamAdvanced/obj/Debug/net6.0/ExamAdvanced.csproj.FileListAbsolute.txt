@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\net6.0\ExamAdvanced.exe
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\net6.0\ExamAdvanced.deps.json
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\net6.0\ExamAdvanced.runtimeconfig.json
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\net6.0\ExamAdvanced.dll
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\bin\Debug\net6.0\ExamAdvanced.pdb
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.dll
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\refint\ExamAdvanced.dll
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.pdb
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ExamAdvanced.genruntimeconfig.cache
+C:\Users\User\source\repos\ExamAdvanced\ExamAdvanced\obj\Debug\net6.0\ref\ExamAdvanced.dll

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\06. Substitute.exe
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\06. Substitute.deps.json
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\06. Substitute.runtimeconfig.json
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\06. Substitute.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\06. Substitute.dll
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\ref\06. Substitute.dll
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\bin\Debug\net5.0\06. Substitute.pdb
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.dll
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\ref\06. Substitute.dll
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.pdb
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.genruntimeconfig.cache
+C:\Users\User\source\repos\Exam Programming Basic\06. Substitute\obj\Debug\net5.0\06. Substitute.csproj.AssemblyReference.cache

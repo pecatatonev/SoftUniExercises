@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\Sets and Dictionaries Advanced.exe
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\Sets and Dictionaries Advanced.deps.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\Sets and Dictionaries Advanced.runtimeconfig.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\Sets and Dictionaries Advanced.runtimeconfig.dev.json
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\Sets and Dictionaries Advanced.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\bin\Debug\net5.0\Sets and Dictionaries Advanced.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.AssemblyInfo.cs
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\refint\Sets and Dictionaries Advanced.dll
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.pdb
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\Sets and Dictionaries Advanced.genruntimeconfig.cache
+C:\Users\User\source\repos\Sets and Dictionaries Advanced\Sets and Dictionaries Advanced\obj\Debug\net5.0\ref\Sets and Dictionaries Advanced.dll

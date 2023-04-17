@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.exe
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.deps.json
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.json
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.dev.json
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.dll
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.pdb
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfo.cs
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.dll
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\refint\05. Multiply Big Number.dll
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.pdb
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.genruntimeconfig.cache
+C:\Users\User\source\repos\Text_Processing\05. Multiply Big Number\obj\Debug\net5.0\ref\05. Multiply Big Number.dll

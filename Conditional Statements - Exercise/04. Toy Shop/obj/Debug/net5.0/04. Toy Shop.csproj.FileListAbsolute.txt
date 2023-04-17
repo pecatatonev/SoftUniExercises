@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.exe
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.deps.json
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.dll
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\ref\04. Toy Shop.dll
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\bin\Debug\net5.0\04. Toy Shop.pdb
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.dll
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\ref\04. Toy Shop.dll
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.pdb
+C:\Users\User\source\repos\Conditional Statements - Exercise\04. Toy Shop\obj\Debug\net5.0\04. Toy Shop.genruntimeconfig.cache

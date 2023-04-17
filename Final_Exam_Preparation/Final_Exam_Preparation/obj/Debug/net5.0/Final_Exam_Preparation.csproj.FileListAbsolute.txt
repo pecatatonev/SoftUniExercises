@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\bin\Debug\net5.0\Final_Exam_Preparation.exe
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\bin\Debug\net5.0\Final_Exam_Preparation.deps.json
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\bin\Debug\net5.0\Final_Exam_Preparation.runtimeconfig.json
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\bin\Debug\net5.0\Final_Exam_Preparation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\bin\Debug\net5.0\Final_Exam_Preparation.dll
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\bin\Debug\net5.0\Final_Exam_Preparation.pdb
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.AssemblyInfo.cs
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.dll
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\refint\Final_Exam_Preparation.dll
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.pdb
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\Final_Exam_Preparation.genruntimeconfig.cache
+C:\Users\User\source\repos\Final_Exam_Preparation\Final_Exam_Preparation\obj\Debug\net5.0\ref\Final_Exam_Preparation.dll

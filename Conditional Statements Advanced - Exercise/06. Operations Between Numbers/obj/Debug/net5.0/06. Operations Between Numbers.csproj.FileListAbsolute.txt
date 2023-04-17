@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.exe
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.deps.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.runtimeconfig.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.runtimeconfig.dev.json
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\ref\06. Operations Between Numbers.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\bin\Debug\net5.0\06. Operations Between Numbers.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\ref\06. Operations Between Numbers.dll
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.pdb
+C:\Users\User\source\repos\Conditional Statements Advanced - Exercise\06. Operations Between Numbers\obj\Debug\net5.0\06. Operations Between Numbers.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.exe
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.deps.json
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.json
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.runtimeconfig.dev.json
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.dll
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\bin\Debug\net5.0\MyFirstProject.pdb
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.AssemblyInfo.cs
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.dll
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\ref\MyFirstProject.dll
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.pdb
+C:\Users\User\source\repos\MyFirstProject\MyFirstProject\obj\Debug\net5.0\MyFirstProject.genruntimeconfig.cache

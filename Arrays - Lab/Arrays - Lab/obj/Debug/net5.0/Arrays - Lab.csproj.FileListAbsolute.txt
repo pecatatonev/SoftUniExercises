@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.exe
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.deps.json
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.runtimeconfig.json
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.runtimeconfig.dev.json
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.dll
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\ref\Arrays - Lab.dll
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\bin\Debug\net5.0\Arrays - Lab.pdb
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.AssemblyInfo.cs
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.dll
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\ref\Arrays - Lab.dll
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.pdb
+C:\Users\User\source\repos\Arrays - Lab\Arrays - Lab\obj\Debug\net5.0\Arrays - Lab.genruntimeconfig.cache

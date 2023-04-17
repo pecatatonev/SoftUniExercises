@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\help me.exe
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\help me.deps.json
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\help me.runtimeconfig.json
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\help me.runtimeconfig.dev.json
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\help me.dll
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\ref\help me.dll
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\bin\Debug\net5.0\help me.pdb
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.AssemblyInfo.cs
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.dll
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\ref\help me.dll
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.pdb
+C:\Users\User\source\repos\MId_Exam_Fundamentals\help me\obj\Debug\net5.0\help me.genruntimeconfig.cache

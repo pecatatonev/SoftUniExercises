@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\Lists - Exercise.exe
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\Lists - Exercise.deps.json
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\Lists - Exercise.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\Lists - Exercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\Lists - Exercise.dll
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\ref\Lists - Exercise.dll
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\bin\Debug\net5.0\Lists - Exercise.pdb
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.dll
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\ref\Lists - Exercise.dll
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.pdb
+C:\Users\User\source\repos\Lists - Exercise\Lists - Exercise\obj\Debug\net5.0\Lists - Exercise.genruntimeconfig.cache

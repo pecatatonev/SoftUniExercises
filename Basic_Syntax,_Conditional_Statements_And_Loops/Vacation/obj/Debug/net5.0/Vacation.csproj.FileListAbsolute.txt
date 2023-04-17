@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\Vacation.exe
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\Vacation.deps.json
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.json
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\Vacation.runtimeconfig.dev.json
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\Vacation.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\ref\Vacation.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\bin\Debug\net5.0\Vacation.pdb
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\ref\Vacation.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.pdb
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\Vacation\obj\Debug\net5.0\Vacation.genruntimeconfig.cache

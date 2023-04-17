@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\try.exe
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\try.deps.json
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\try.runtimeconfig.json
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\try.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\try.dll
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\ref\try.dll
+C:\Users\User\source\repos\Lists - Exercise\try\bin\Debug\net5.0\try.pdb
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.AssemblyInfo.cs
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.dll
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\ref\try.dll
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.pdb
+C:\Users\User\source\repos\Lists - Exercise\try\obj\Debug\net5.0\try.genruntimeconfig.cache

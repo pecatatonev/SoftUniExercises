@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.exe
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.deps.json
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.runtimeconfig.json
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.runtimeconfig.dev.json
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\ref\4. Print and Sum.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\bin\Debug\net5.0\4. Print and Sum.pdb
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.AssemblyInfo.cs
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\ref\4. Print and Sum.dll
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.pdb
+C:\Users\User\source\repos\Basic_Syntax,_Conditional_Statements_And_Loops\4. Print and Sum\obj\Debug\net5.0\4. Print and Sum.genruntimeconfig.cache

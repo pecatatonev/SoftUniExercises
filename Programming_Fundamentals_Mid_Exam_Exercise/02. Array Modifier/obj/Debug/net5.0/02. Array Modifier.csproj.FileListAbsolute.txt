@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.exe
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.deps.json
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.json
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.runtimeconfig.dev.json
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.dll
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\ref\02. Array Modifier.dll
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\bin\Debug\net5.0\02. Array Modifier.pdb
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.AssemblyInfo.cs
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.dll
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\ref\02. Array Modifier.dll
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.pdb
+C:\Users\User\source\repos\Programming_Fundamentals_Mid_Exam_Exercise\02. Array Modifier\obj\Debug\net5.0\02. Array Modifier.genruntimeconfig.cache

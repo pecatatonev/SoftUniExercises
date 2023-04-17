@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\Cristmas gifts.exe
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\Cristmas gifts.deps.json
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\Cristmas gifts.runtimeconfig.json
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\Cristmas gifts.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\Cristmas gifts.dll
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\ref\Cristmas gifts.dll
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\bin\Debug\net5.0\Cristmas gifts.pdb
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.AssemblyInfo.cs
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.dll
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\ref\Cristmas gifts.dll
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.pdb
+C:\Users\User\source\repos\Exam Programming Basic\Cristmas gifts\obj\Debug\net5.0\Cristmas gifts.genruntimeconfig.cache

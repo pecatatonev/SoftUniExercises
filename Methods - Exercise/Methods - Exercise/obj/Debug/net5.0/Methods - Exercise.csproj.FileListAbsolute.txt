@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.exe
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.deps.json
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.runtimeconfig.json
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.runtimeconfig.dev.json
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.dll
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\ref\Methods - Exercise.dll
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\bin\Debug\net5.0\Methods - Exercise.pdb
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.AssemblyInfo.cs
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.dll
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\ref\Methods - Exercise.dll
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.pdb
+C:\Users\User\source\repos\Methods - Exercise\Methods - Exercise\obj\Debug\net5.0\Methods - Exercise.genruntimeconfig.cache

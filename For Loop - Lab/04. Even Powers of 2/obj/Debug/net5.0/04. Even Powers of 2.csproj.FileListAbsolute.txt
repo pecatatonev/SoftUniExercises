@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.exe
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.deps.json
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.json
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.runtimeconfig.dev.json
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.dll
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\ref\04. Even Powers of 2.dll
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\bin\Debug\net5.0\04. Even Powers of 2.pdb
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.AssemblyInfo.cs
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.dll
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\ref\04. Even Powers of 2.dll
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.pdb
+C:\Users\User\source\repos\For Loop - Lab\04. Even Powers of 2\obj\Debug\net5.0\04. Even Powers of 2.genruntimeconfig.cache
